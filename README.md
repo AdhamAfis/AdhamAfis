@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adham</h1>
 <h3 align="center">Motivated Software Engineering Intern eager to advance professionally and contribute to business success. Exceptional leadership and planning abilities with a deep understanding of software engineering practices. Teachable and ready to learn from experienced professionals.</h3>
-
+<img align="right" alt="Coding" width="400" src="(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhamafis&label=Profile%20views&color=0e75b6&style=flat" alt="adhamafis" /> </p>
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
