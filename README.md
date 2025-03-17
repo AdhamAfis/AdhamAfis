@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Adham Afis</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=440&lines=Software+Engineer;ML+%26+AI+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=440&lines=Software+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,8 +19,7 @@
 
 - 🔭 Motivated **Software Engineer** passionate about creating solutions
 - 🌱 Currently exploring **Rust** and advanced cloud architecture
-- 💬 Ask me about **Java, AI/ML, and Microservices Architecture**
-- 🚀 Experienced with **Agile methodologies** and **SOLID principles**
+- 💬 Ask me about **Java, Next.js and Microservices Architecture**
 - 📚 Always learning and improving my tech skills
 
 <br clear="right"/>
