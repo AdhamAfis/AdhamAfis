@@ -21,7 +21,7 @@
 - 📚 Always learning and improving my tech skills
 
 <div align="left">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adhamafis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adhamafis&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </div>
 
 
