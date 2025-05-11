@@ -11,6 +11,7 @@
 </div>
 
 <img align="right" width="40%" src="https://leetcode-badge-showcase-new-theme.vercel.app/api?username=adhamafis&theme=invisible&border=border&animated=false" alt="LeetCode Badges" />
+
 - 🔭 Motivated **Software Engineer** passionate about creating solutions
 - 🌱 Currently exploring **Rust** and advanced cloud architecture
 - 💬 Ask me about **Java, Next.js and Microservices Architecture**
