@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/-%F0%9F%92%AB%20About%20Me-6A5ACD?style=for-the-badge&labelColor=6A5ACD" alt="About Me" />
 </div>
 
-<img align="right" width="40%" src="https://leetcode-badge-showcase.vercel.app/api?username=adhamafis&theme=github-dark&animated=true" alt="LeetCode Badges" />
-
+<img align="right" width="40%" src="https://leetcode-badge-showcase-new-theme.vercel.app/api?username=adhamafis&theme=invisible&border=border&animated=false" alt="LeetCode Badges" />
 - 🔭 Motivated **Software Engineer** passionate about creating solutions
 - 🌱 Currently exploring **Rust** and advanced cloud architecture
 - 💬 Ask me about **Java, Next.js and Microservices Architecture**
