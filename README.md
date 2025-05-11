@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=440&lines=Software+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adhamafis&label=Profile%20views&color=6A5ACD&style=flat" alt="Profile Views" /> 
