@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adhamafis&label=Profile%20views&color=6A5ACD&style=flat" alt="Profile Views" /> 
-  <a href="https://www.linkedin.com/in/adham-afis/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/></a>
-  <a href="https://leetcode.com/adhamafis/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat&logo=leetcode"/></a>
-  <a href="https://kaggle.com/adhamafis"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=flat&logo=kaggle"/></a>
+  <img src="https://komarev.com/ghpvc/?username=adhamafis&label=Profile%20views&color=6A5ACD&style=for-the-badge&abbreviated=true" alt="Profile Views" /> 
+  <a href="https://www.linkedin.com/in/adham-afis/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://leetcode.com/adhamafis/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://kaggle.com/adhamafis"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle"/></a>
 </p>
 
 <div align="center">
